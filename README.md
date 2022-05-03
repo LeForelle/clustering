@@ -1,2 +1,2 @@
 # clustering
-review of clustering algorythms as ISODATA and K-means
+Review of clustering algorythms as ISODATA and K-means
